@@ -1,0 +1,37 @@
+title: "[Propose roundtable topic] "
+labels: ["Roundtable topic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Submit a proposal for a round table topic
+        You can learn [more about this event here](https://rinpharma.github.io/positconf-roundtables-2024/), or view the discussion notes [from last year here](https://rinpharma.github.io/roundtables/).
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: "Please describe your proposed topic here"
+      value: |
+        A pressing topic I think we should discuss is......
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected impact
+      description: "How do you believe bringing this topic to a roundtable discussion could benefit our community?"
+      value: |
+        I believe this topic would be a benefit because......
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: facilitate
+    attributes:
+      label: Would you be willing to potentially facilitate this discussion?
+      options:
+        - Yes definately!
+        - Maybe/No/ask me again later
