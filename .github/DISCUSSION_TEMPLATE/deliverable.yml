@@ -1,0 +1,39 @@
+title: "[Propose a deliverable we could achieve at the event] "
+labels: ["Deliverable topic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Submit a proposal for something we could deliver at the event
+        You can learn [more about this event here](https://rinpharma.github.io/positconf-roundtables-2024/), or view the discussion notes [from last year here](https://rinpharma.github.io/roundtables/).
+
+        This category is new for 2024, and is designed to allow proposals for something we could feasibly tackle in a half or full day. 
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: "Please describe your proposed topic here"
+      value: |
+        A pressing topic I think we should discuss is......
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected impact
+      description: "How do you believe bringing this topic could benefit our community?"
+      value: |
+        I believe this topic would be a benefit because......
+        ...
+      render: bash
+    validations:
+      required: true
+  - type: dropdown
+    id: facilitate
+    attributes:
+      label: Would you be willing to potentially facilitate this discussion?
+      options:
+        - Yes definately!
+        - Maybe/No/ask me again later
