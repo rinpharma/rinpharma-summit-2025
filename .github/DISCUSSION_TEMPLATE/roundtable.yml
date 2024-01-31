@@ -14,7 +14,7 @@ body:
       value: |
         A pressing topic I think we should discuss is......
         ...
-      render: bash
+      render: markdown
     validations:
       required: true
   - type: textarea
@@ -25,7 +25,7 @@ body:
       value: |
         I believe this topic would be a benefit because......
         ...
-      render: bash
+      render: markdown
     validations:
       required: true
   - type: dropdown
