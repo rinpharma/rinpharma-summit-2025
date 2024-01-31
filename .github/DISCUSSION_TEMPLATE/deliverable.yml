@@ -16,7 +16,6 @@ body:
       value: |
         A pressing topic I think we should discuss is......
         ...
-      render: markdown
     validations:
       required: true
   - type: textarea
@@ -27,7 +26,16 @@ body:
       value: |
         I believe this topic would be a benefit because......
         ...
-      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    id: prior
+    attributes:
+      label: Prior discussions/work
+      description: "If there are any relevant prior discussions, or references, please share them here"
+      value: |
+        I believe this topic would be a benefit because......
+        ...
     validations:
       required: true
   - type: dropdown
