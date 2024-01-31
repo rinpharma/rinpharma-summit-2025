@@ -27,7 +27,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: impact
+    id: prior
     attributes:
       label: Prior discussions/work
       description: "If there are any relevant prior discussions, or references, please share them here"
