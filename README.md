@@ -31,6 +31,7 @@ Ordered alphabetically by company;
 
 - Phil Bowsher, R/Pharma executive; Posit
 - James Black, R/Pharma executive; Roche
+- Harvey Lieberman, R/Pharma executive; Novartis
 - **Looking for a third organisor from another major pharma**
 
 
