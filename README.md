@@ -29,9 +29,9 @@ Ordered alphabetically by company;
 
 ## Organising committee
 
-- Phil Bowsher, R/Pharma executive; Posit
-- James Black, R/Pharma executive; Roche
-- Harvey Lieberman, R/Pharma executive; Novartis
+- Phil Bowsher, Posit
+- James Black, Roche
+- Harvey Lieberman, Novartis
 - Katie Igartua, Tempus
 
 
