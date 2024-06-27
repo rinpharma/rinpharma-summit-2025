@@ -2,7 +2,7 @@
 
 ## Background
 
-In 2018 and 2019, R in Pharma was in-person at Harvard University and focused on opportunities for direct interaction with speakers and guests. These relationships and connections have grown into many exciting areas of Open Source drug development. We are excited to announce R/Pharma is partnering with Posit to host our in-person portion at posit::conf(2023) in Chicago. There will be a Pharma workshop on Sunday Sept 17, and on the 18th of September we will be hosting the R/Pharma Roundtable Summit. 
+In 2018 and 2019, R in Pharma was in-person at Harvard University and focused on opportunities for direct interaction with speakers and guests. These relationships and connections have grown into many exciting areas of Open Source drug development. In 2023 we partnered with Posit, hosting an in-person session at posit::conf 2023 in Chicago. We're thrilled to bring this back at posit::conf 2024.
 
 Over the last 5 years we’ve seen an explosive growth in the use of R and other open source technologies across drug development, with an increasing focus on open source projects and pan-company collaboration. In this 1-day series of roundtables we aim to provide an open, collaborative, and inclusive environment to share learnings, understand common themes across our industry, and establish collaboration opportunities. The focus of the R/Pharma Roundtable Summit is to foster in-person discussions and conversations about key items (reproducibility, submissions etc.) as we did at Harvard.
 
@@ -19,7 +19,7 @@ ___
 Time | Chair | Description
 --- | --- | ---
 8.50am | Phil Bowsher (Posit) | Intro to day 
-9-10am | Aaron Clark (Arcus) and Doug Kehlkoff (Genentech) | Driving Consensus Through Repositories<br>Following last year's open dialogue about shaping an industry standard repository, we're excited to share what's on the horizon. Through collaborations across the industry and the ecosystem of R repository tools, we're settling on a means of delivering consistent, reproducible quality assessments of packages.
+9-10am | Aaron Clark (Arcus) and Doug Kelkhoff (Genentech) | Driving Consensus Through Repositories<br>Following last year's open dialogue about shaping an industry standard repository, we're excited to share what's on the horizon. Through collaborations across the industry and the ecosystem of R repository tools, we're settling on a means of delivering consistent, reproducible quality assessments of packages.
 10-11am | Natalia Andriychuk (Pfizer) and Nicole Jones (Denali) | Tackling risk in interactive data products (e.g. shiny validation) [Title TBC]
 11-11.15am | - | Bio-break
 11.15-12.30pm | James Black (Roche) | Community Panel. We ask people to take 3 post it notes, and on each give write down a response to each question (so one question per note): <ul><li>Q1: What is the biggest challenge your data science, or data science tooling, focussed team is facing today?</li><li>Q2: What questions to have on the impact of AI/LLMs?</li><li>Q3: If our industry could come together and form one position statement around data science and/or clinical reporting, what would it be?</li></ul> </br> Users asked to crumple up their post notes, then throw them as hard as they can across the room. Once finished, people asked to try and find 3 post it notes. Ask for volunteers to read out one of their post it notes.
