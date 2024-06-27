@@ -12,6 +12,24 @@ During the 2024 R/Pharma Summit, facilitators will foster in-person discussions 
 
 **You can contribute to the discussion about the final agenda via this collection of github discussions**: https://github.com/rinpharma/rinpharma-summit-2024/discussions
 
+___
+
+## Agenda
+
+Time | Chair | Description
+--- | --- | ---
+8.50am | Phil Bowsher (Posit) | Intro to day 
+9-10am | Aaron Clark (Arcus) and Doug Kehlkoff (Genentech) | Validation hub workshop [Title TBC]
+10-11am | Natalia Andriychuk (Pfizer) and Nicole Jones (Denali) | Tackling risk in interactive data products (e.g. shiny validation) [Title TBC]
+11-11.15am | - | Bio-break
+11.15-12.30pm | James Black (Roche) | Community Panel. We ask people to take 3 post it notes, and on each give write down a response to each question (so one question per note): <ul><li>Q1: What is the biggest challenge your data science, or data science tooling, focussed team is facing today?</li><li>Q2: What questions to have on the impact of AI/LLMs?</li><li>Q3: If our industry could come together and form one position statement around data science and/or clinical reporting, what would it be?</li></ul> </br> Users asked to crumple up their post notes, then throw them as hard as they can across the room. Once finished, people asked to try and find 3 post it notes. Ask for volunteers to read out one of their post it notes.
+12.30-1.30pm | - | Lunch
+1.30-4pm | Katie Igartua (Tempus) | Round tables </br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour. 
+4-4.45pm | Round table chairs | Chairs report back notes, and any planned follow up
+4.45-5pm | Phil Bowsher (Posit) | Wrap up
+5pm-7.30pm | Tempus sponsored apero | ![pinebox](https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120)
+___
+
 ## Audience
 
 These round tables are for you if:
@@ -21,11 +39,13 @@ These round tables are for you if:
 - You are an informatics professional designing and implementing GxP conforming data science platforms 
 - You are interested in cross-pharma collaboration
 
+___
+
 ## Round table advisory board: 
 
 Ordered alphabetically by company;
 
-
+___
 
 ## Organising committee
 
