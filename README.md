@@ -27,7 +27,7 @@ Time | Chair | Description
 1.30-4pm | Katie Igartua (Tempus) | Round tables </br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour. 
 4-4.45pm | Round table chairs | Chairs report back notes, and any planned follow up
 4.45-5pm | Phil Bowsher (Posit) | Wrap up
-5pm-7.30pm | Tempus sponsored apero | ![pinebox](https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120)
+6:30pm-9.00pm | Tempus sponsored apero | ![pinebox](https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120)
 ___
 
 ## Audience
