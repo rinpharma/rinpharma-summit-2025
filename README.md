@@ -16,18 +16,67 @@ ___
 
 ## Agenda
 
-Time | Chair | Description
---- | --- | ---
-8.50am | Phil Bowsher (Posit) | Intro to day 
-9-10am | Aaron Clark (Arcus) and Doug Kelkhoff (Roche) | **Driving Consensus Through Repositories** <br> Following last year's open dialogue about shaping an industry standard repository, we're excited to share what's on the horizon. Through collaborations across the industry and the ecosystem of R repository tools, we're settling on a means of delivering consistent, reproducible quality assessments of packages.
-10-11am | Natalia Andriychuk (Pfizer) and Nicole Jones (Denali) | Tackling risk in interactive data products (e.g. shiny validation) [Title TBC]
-11-11.15am | - | Bio-break
-11.15-12.30pm | Katie Igartua (Tempus AI) | **One Year Later - Reflection on Progress and New Developments**  <br> A year has passed since our last in person meeting where we discussed regulatory validation workflows for R Shiny, integrating LLMS advancements and real-world into drug discovery, challenges of approval for open source workflows within industry and talent recruitment and training. This session aims to get new attendees up to speed while reflecting on conversations from last year's round tables with user stories.
-12.30-1.30pm | - | Lunch
-1.30-4pm | James Black (Roche) | **Round tables** </br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour. 
-4-4.45pm | Round table chairs | Chairs report back notes, and any planned follow up
-4.45-5pm | Phil Bowsher (Posit) | Wrap up
-6:30pm-9.00pm | Tempus sponsored apero | ![pinebox](https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120)
+<markdown-accessiblity-table><table>
+<thead>
+  <tr>
+    <th>Time</th>
+    <th>Chair</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>8.50am</td>
+  <td>Phil Bowsher (Posit)</td>
+  <td>Intro to day</td>
+</tr>
+<tr>
+  <td>9-10am</td>
+  <td>Aaron Clark (Arcus) and Doug Kelkhoff (Roche)</td>
+  <td><strong>Driving Consensus Through Repositories</strong> <br> Following last year's open dialogue about shaping an industry standard repository, we're excited to share what's on the horizon. Through collaborations across the industry and the ecosystem of R repository tools, we're settling on a means of delivering consistent, reproducible quality assessments of packages.</td>
+</tr>
+<tr>
+  <td>10-11am</td>
+  <td>Natalia Andriychuk (Pfizer) and Nicole Jones (Denali)</td>
+  <td>Tackling risk in interactive data products (e.g. shiny validation) [Title TBC]</td>
+</tr>
+<tr>
+  <td>11-11.15am</td>
+  <td>-</td>
+  <td>Bio-break</td>
+</tr>
+<tr>
+  <td>11.15-12.30pm</td>
+  <td>Katie Igartua (Tempus AI)</td>
+  <td><strong>One Year Later - Reflection on Progress and New Developments</strong>  <br> A year has passed since our last in person meeting where we discussed regulatory validation workflows for R Shiny, integrating LLMS advancements and real-world into drug discovery, challenges of approval for open source workflows within industry and talent recruitment and training. This session aims to get new attendees up to speed while reflecting on conversations from last year's round tables with user stories.</td>
+</tr>
+<tr>
+  <td>12.30-1.30pm</td>
+  <td>-</td>
+  <td>Lunch</td>
+</tr>
+<tr>
+  <td>1.30-4pm</td>
+  <td>James Black (Roche)</td>
+  <td><strong>Round tables</strong> <br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour.</td>
+</tr>
+<tr>
+  <td>4-4.45pm</td>
+  <td>Round table chairs</td>
+  <td>Chairs report back notes, and any planned follow up</td>
+</tr>
+<tr>
+  <td>4.45-5pm</td>
+  <td>Phil Bowsher (Posit)</td>
+  <td>Wrap up</td>
+</tr>
+<tr>
+  <td>6:30pm-9.00pm</td>
+  <td>Tempus sponsored apero</td>
+  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120"><img src="https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120" alt="pinebox" style="max-width: 100%;"></a></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
 ___
 
 ## Audience
