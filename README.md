@@ -38,7 +38,7 @@ ___
 <tr>
   <td>10-11am</td>
   <td>Natalia Andriychuk (Pfizer) and Nicole Jones (Denali)</td>
-  <td>Tackling risk in interactive data products (e.g. shiny validation) [Title TBC]</td>
+  <td>[Title TBC] by Nicole Jones & Assessing and mitigating risk while developing Shiny apps by Natalia Andriychuk followed by a Panel discussion on internalizing/productionalizing shiny apps within organizations with Eric Nantz (Eli Lilly), Becca Krouse (GSK), Sam Parmar (Pfizer)  </td>
 </tr>
 <tr>
   <td>11-11.15am</td>
