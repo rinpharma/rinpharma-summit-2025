@@ -14,6 +14,19 @@ During the 2024 R/Pharma Summit, facilitators will foster in-person discussions 
 
 ___
 
+## Location
+
+> HYATT REGENCY SEATTLE
+> 
+> Elwha B Conference Room (Floor 5)
+> 
+> 808 Howell Street
+> 
+> Seattle, Washington 98101, USA
+
+![seattle_room](https://github.com/user-attachments/assets/fb78eb57-acdc-4a8c-a0a1-957076b84901)
+___
+
 ## Agenda
 
 <markdown-accessiblity-table><table>
