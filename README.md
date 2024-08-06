@@ -51,7 +51,7 @@ ___
 <tr>
   <td>10-11am</td>
   <td>Natalia Andriychuk (Pfizer) and Nicole Jones (Denali)</td>
-  <td><strong>30 minutes of context setting:</strong> [Title TBC] by Nicole Jones & Assessing and mitigating risk while developing Shiny apps by Natalia Andriychuk followed <br> <strong>Panel discussion</strong> Internalizing/productionalizing shiny apps within organizations with Eric Nantz (Eli Lilly), Becca Krouse (GSK), Sam Parmar (Pfizer)  </td>
+  <td><strong>30 minutes of context setting:</strong> [Title TBC] by Nicole Jones & Assessing and mitigating risk while developing Shiny apps by Natalia Andriychuk followed by<br> <strong>Panel discussion</strong> Internalizing/productionalizing shiny apps within organizations with Eric Nantz (Eli Lilly), Becca Krouse (GSK), Sam Parmar (Pfizer)  </td>
 </tr>
 <tr>
   <td>11-11.15am</td>
@@ -86,7 +86,12 @@ ___
 <tr>
   <td>6:30pm-9.00pm</td>
   <td>Tempus sponsored apero</td>
-  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120"><img src="https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120" alt="pinebox" style="max-width: 100%;"></a></td>
+  <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120"><img src="https://github.com/rinpharma/rinpharma-summit-2024/assets/2760096/c4ca8802-4881-4250-b8fb-e22cedc48120" alt="pinebox" style="max-width: 100%;"></a><br>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScBOYMDxs--popRdJHJ2KvMKUfip0HgGuNq4ZYSzwwR0uQGug/viewform">RSVP</a> to the R /Pharma Summit Meetup @ The <a target="_blank" href="https://maps.app.goo.gl/aqDAZj6d4XjZJwVCA">Pine Box</a><br> 
+Sunday, August 11th, 2024 @ 6:30PM-9:30PM<br>
+Join other Posit enthusiasts in BioPharma for a social event following the R/Pharma Summit. We'll be meeting at the Pine Box, which is only a 10 minute walk away from the Seattle Hyatt Regency hotel where POSIT::CONF(2024) is taking place.<br>
+<b>Attendance to the R/Pharma Summit not required.</b>
+  </td>
 </tr>
 </tbody>
 </table></markdown-accessiblity-table>
