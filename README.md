@@ -71,7 +71,7 @@ ___
 <tr>
   <td>1.30-4pm</td>
   <td>James Black (Roche)</td>
-  <td><strong>Round tables</strong> <br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour.</td>
+  <td><strong>Round tables</strong> <br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour.<br>A list of the roundtable topics can be found at <a target="_blank" href="https://iced-cobalt-20e.notion.site/2641e5330a3f4d08ba0c999f1f8950c9?v=a2754a41ef3e42538b32fffc33cb9547">this link</a>. </td>
 </tr>
 <tr>
   <td>4-4.45pm</td>
