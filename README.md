@@ -40,7 +40,7 @@ ___
 <tbody>
 <tr>
   <td>8.50am</td>
-  <td>Katie Igartua (Tempus)</td>
+  <td>Katie Igartua (Tempus AI)</td>
   <td>Intro to day</td>
 </tr>
 <tr>
