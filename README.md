@@ -51,7 +51,7 @@ ___
 <tr>
   <td>10-11am</td>
   <td>Natalia Andriychuk (Pfizer) and Nicole Jones (Denali)</td>
-  <td><strong>30 minutes of context setting:</strong><br>Crafting Impactful Interactive Data Products: A Guide to Success by Nicole Jones<br>Assessing and mitigating risk while developing Shiny apps by Natalia Andriychuk<br><strong>Panel discussion:</strong><br>Internalizing/productionalizing shiny apps within organizations with Eric Nantz (Eli Lilly), Becca Krouse (GSK), Sam Parmar (Pfizer)  </td>
+  <td><strong>Defining Good Practices and Tracking risk in Interactive Data Products (30 mins context setting, 30 mins panel):</strong><br>Crafting Impactful Interactive Data Products: A Guide to Success by Nicole Jones<br>Assessing and mitigating risk while developing Shiny apps by Natalia Andriychuk<br><strong>Panel discussion:</strong><br>Internalizing/productionalizing shiny apps within organizations with Eric Nantz (Eli Lilly), Becca Krouse (GSK), Sam Parmar (Pfizer)  </td>
 </tr>
 <tr>
   <td>11-11.15am</td>
