@@ -46,7 +46,7 @@ ___
 <tr>
   <td>9-10am</td>
   <td></td>
-  <td><</td>
+  <td></td>
 </tr>
 <tr>
   <td>10-11am</td>
@@ -55,7 +55,7 @@ ___
 </tr>
 <tr>
   <td>11-11.15am</td>
-  <td>-</td>
+  <td></td>
   <td>Bio-break</td>
 </tr>
 <tr>
