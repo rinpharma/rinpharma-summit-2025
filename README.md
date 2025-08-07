@@ -29,7 +29,67 @@ ___
 
 ## Agenda
 
-TBD
+<markdown-accessiblity-table><table>
+<thead>
+  <tr>
+    <th>Time</th>
+    <th>Chair</th>
+    <th>Description</th>
+  </tr>
+</thead>
+<tbody>
+<tr>
+  <td>8.50am</td>
+  <td></td>
+  <td>Intro to day</td>
+</tr>
+<tr>
+  <td>9-10am</td>
+  <td></td>
+  <td><</td>
+</tr>
+<tr>
+  <td>10-11am</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>11-11.15am</td>
+  <td>-</td>
+  <td>Bio-break</td>
+</tr>
+<tr>
+  <td>11.15-12.30pm</td>
+  <td></td>
+  <td><strong>.</td>
+</tr>
+<tr>
+  <td>12.30-1.30pm</td>
+  <td>-</td>
+  <td>Lunch</td>
+</tr>
+<tr>
+  <td>1.30-4pm</td>
+  <td></td>
+  <td><strong>Round tables</strong> <br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour.</td>
+</tr>
+<tr>
+  <td>4-4.45pm</td>
+  <td>Round table chairs</td>
+  <td>Chairs report back notes, and any planned follow up</td>
+</tr>
+<tr>
+  <td>4.45-5pm</td>
+  <td>Phil Bowsher (Posit)</td>
+  <td>Wrap up</td>
+</tr>
+<tr>
+  <td>6:30pm-9.00pm</td>
+  <td>Apero??</td>
+  <td></td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
 ___
 
 ## Audience
