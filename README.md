@@ -1,4 +1,4 @@
-# R/Pharma Summit (in-person event)
+# R/Pharma Summit (in-person event Monday, September 15)
 
 ## Background
 
