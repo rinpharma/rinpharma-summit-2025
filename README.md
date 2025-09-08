@@ -20,7 +20,7 @@ ___
 > 
 > Room TBD
 > 
->  265 Peachtree St NE
+> 265 Peachtree St NE
 > 
 > Atlanta, GA 30303, USA
 
@@ -45,13 +45,13 @@ ___
 </tr>
 <tr>
   <td>9-10am</td>
-  <td></td>
-  <td></td>
+  <td>James / Orla / Phil</td>
+  <td>ROI on Open Source</td>
 </tr>
 <tr>
   <td>10-11am</td>
-  <td></td>
-  <td></td>
+  <td>Eric / Paulo</td>
+  <td>Navigating Quality</td>
 </tr>
 <tr>
   <td>11-11.15am</td>
@@ -60,17 +60,17 @@ ___
 </tr>
 <tr>
   <td>11.15-12.30pm</td>
-  <td></td>
-  <td><strong>.</td>
+  <td>Devin / Jeremy</td>
+  <td><strong>GenAI</td>
 </tr>
 <tr>
   <td>12.30-1.30pm</td>
-  <td>-</td>
+  <td></td>
   <td>Lunch</td>
 </tr>
 <tr>
   <td>1.30-4pm</td>
-  <td></td>
+  <td>James</td>
   <td><strong>Round tables</strong> <br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour.</td>
 </tr>
 <tr>
