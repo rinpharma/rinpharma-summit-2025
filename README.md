@@ -85,7 +85,7 @@ ___
 </tr>
 <tr>
   <td>6:30pm-9.00pm</td>
-  <td>Apero??</td>
+  <td>Social event</td>
   <td></td>
 </tr>
 </tbody>
