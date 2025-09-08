@@ -61,7 +61,7 @@ ___
 <tr>
   <td>11.15-12.30pm</td>
   <td>Devin / Jeremy</td>
-  <td><strong>GenAI</td>
+  <td>GenAI</td>
 </tr>
 <tr>
   <td>12.30-1.30pm</td>
