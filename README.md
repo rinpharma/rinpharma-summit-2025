@@ -70,7 +70,7 @@ ___
 </tr>
 <tr>
   <td>1.30-4pm</td>
-  <td>James</td>
+  <td>James + other chairs</td>
   <td><strong>Round tables</strong> <br> Split into 2 sessions of 1hr with short break between sessions. People are welcome, but do not need to stay at a round table for the full 1 hour.</td>
 </tr>
 <tr>
