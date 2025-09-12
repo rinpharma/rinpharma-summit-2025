@@ -43,8 +43,7 @@ Join the GitHub discussions here:
 Atlanta, GA 30303, USA  
 Meeting Room: **Regency VII**  
 
-![Summit Room — Hyatt Regency Atlanta](hyatt_regency.png){fig-align="center" width="50%"}
-
+<img src="hyatt_regency.png" alt="Summit Room — Hyatt Regency Atlanta" width="75%">
 
 ---
 
