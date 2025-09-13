@@ -82,7 +82,7 @@ Meeting Room: **Regency VII**
 ## Roundtables
 
 ### 1. AI in Pharma
-##### Chair: Jeremy Wildfire
+##### Chairs: Jeremy Wildfire, Sri Pavan Vemuri, Satish Murthy
 - Best Practices for AI-Assisted R Coding  
 - What would an "AI-friendly" submission look like?  
 - Reimagine open-label trial deliverables with interactive display/AI  
@@ -90,20 +90,25 @@ Meeting Room: **Regency VII**
 - *Create more tables if needed for GenAI*  
 
 ### 2. Validation in 2025
+##### Chairs: Olga Mierzwa-Sulima, Eric Nantz, Paulo Bargo
 - Validating Open Source Tools with Stochastic Components  
 - Architectures to provision validated R packages  
 
 ### 3. Python for Clinical Study Reports and Submission
+##### Chairs: Yilong Zhang, Jonathan Tisack
 - Medical Devices  
 
 ### 4. SCEs in 2025
+##### Chairs: David Thiriot, Phil Bowsher, James Black
 - Open-source infrastructure to complement **openstatsware** and the **pharmaverse**  
 - Expanding the Pharmaverse beyond Clinical Reporting  
 
 ### 5. Open-Source Change Management
+##### Chairs: Ning Leng, Nate Mockler
 - From Hacks to Habits — Tools & Tricks That Changed the Game  
 
 ### 6. Implementation / Perspectives of CROs
+##### Chairs: Douglas Henry, Steven Tan
 - Expanding the Pharmaverse beyond Clinical Reporting  
 
 # Audience
