@@ -66,12 +66,12 @@ Meeting Room: **Regency VII**
 ::: {.agenda-table}
 | Time          | Chair                  | Description           |
 |---------------|------------------------|-----------------------|
-| **8:50am**    |                        | Intro to day    |
-| **9–10am**    | James Black / Orla Doyle / Phil Bowsher    | ROI on Open Source  |
-| **10–11am**   | Eric Nantz / Paulo Bargo           | Navigating Quality  |
-| **11–11:15am**|                        | Bio-break  |
-| **11:15–12:30pm** | Devin Pastoor / Jeremy Wilfire, Joe Cheng, Eric Nantz     | GenAI Discussion Panel  |
-| **12:30–1:30pm** |                     | Lunch <br> 🍴 *Lunch & Learn sessions:* <br> • Postitron (Thomas Mock) <br> • Validation (R Validation Hub, Doug Kelkhoff)  |
+| **9.15amam**    |                        | Intro to day    |
+| **9.30–10am**    | James Black / Orla Doyle / Phil Bowsher    | ROI on Open Source  |
+| **10–10.45am**   | Eric Nantz / Paulo Bargo           | Navigating Quality  |
+| **10.45–11.05am**|                        | Bio-break  |
+| **11:05–12:15pm** | Devin Pastoor / Jeremy Wilfire, Joe Cheng, Eric Nantz     | GenAI Discussion Panel  |
+| **12:15–1:30pm** |                     | Lunch <br> 🍴 *Lunch & Learn sessions:* <br> • Postitron (Thomas Mock) <br> • Validation (R Validation Hub, Doug Kelkhoff)  |
 | **1:30–4pm**  | James + other chairs   | **Round tables** <br> Split into 2 × 1hr sessions with short break between. Attendance is flexible. |
 | **4–4:45pm**  | Round table chairs     | Chairs report back notes, and any planned follow up  |
 | **4:45–5pm**  | Phil Bowsher (Posit)   | Wrap up  |
