@@ -66,7 +66,7 @@ Meeting Room: **Regency VII**
 ::: {.agenda-table}
 | Time          | Chair                  | Description           |
 |---------------|------------------------|-----------------------|
-| **9.15amam**    |                        | Intro to day    |
+| **9.15am**    |                        | Intro to day    |
 | **9.30–10am**    | James Black / Orla Doyle / Phil Bowsher    | ROI on Open Source  |
 | **10–10.45am**   | Eric Nantz / Paulo Bargo           | Navigating Quality  |
 | **10.45–11.05am**|                        | Bio-break  |
