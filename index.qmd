@@ -136,3 +136,67 @@ A mix of 50 people from various pharmaceutical companies, CRO and organization s
 - Katie Igartua — *Tempus*  
 
 This summit is run by [Open Source in Pharma](https://opensourceinpharma.com/), a non-profit aiming to support the use of open source languages in Pharma.
+
+# Roundtable Summaries
+
+During the R/Pharma summit, each roundtable session chair shared a summary of their group's discussion at the conclusion of the event. This year, we recorded the audio of these summaries to local `mp3` audio files, and leveraged the OpenAI `whisper` audio transcription LLM run entirely locally on a computer to generate transcripts of the audio summaries. Lastly, these transcripts were summarized using the Anthropic model within Positron Assistant to create summaries of these transcripts. You can view the summaries and source transcripts of the roundtable sessions below.
+
+## AI in Pharma
+
+::: {.callout-note title="Summary" collapse="false"}
+{{< include _summit_transcripts/ai/summary.md >}}
+:::
+
+::: {.callout-note title="Source Transcript" collapse="true"}
+{{< include _summit_transcripts/ai/transcript.txt >}}
+:::
+
+## Quality & Validation in 2025
+
+::: {.callout-note title="Summary" collapse="false"}
+{{< include _summit_transcripts/quality/summary.md >}}
+:::
+
+::: {.callout-note title="Source Transcript" collapse="true"}
+{{< include _summit_transcripts/quality/transcript.txt >}}
+:::
+
+## Python for Clinical Study Reports and Submission
+
+::: {.callout-note title="Summary" collapse="false"}
+{{< include _summit_transcripts/python/summary.md >}}
+:::
+
+::: {.callout-note title="Source Transcript" collapse="true"}
+{{< include _summit_transcripts/python/transcript.txt >}}
+:::
+
+## SCEs in 2025
+
+::: {.callout-note title="Summary" collapse="false"}
+{{< include _summit_transcripts/sce/summary.md >}}
+:::
+
+::: {.callout-note title="Source Transcript" collapse="true"}
+{{< include _summit_transcripts/sce/transcript.txt >}}
+:::
+
+## Open-Source Change Management
+
+::: {.callout-note title="Summary" collapse="false"}
+{{< include _summit_transcripts/change_management/summary.md >}}
+:::
+
+::: {.callout-note title="Source Transcript" collapse="true"}
+{{< include _summit_transcripts/change_management/transcript.txt >}}
+:::
+
+## Implementation / Perspectives of CROs
+
+::: {.callout-note title="Summary" collapse="false"}
+{{< include _summit_transcripts/cro/summary.md >}}
+:::
+
+::: {.callout-note title="Source Transcript" collapse="true"}
+{{< include _summit_transcripts/cro/transcript.txt >}}
+:::
